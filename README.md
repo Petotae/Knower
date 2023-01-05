@@ -1,5 +1,5 @@
 # Knower
 
-Use "Knower" for MacOS and Linux machines, use "KnowerWin" for Windows
+Journal app for MacOS, Linux, and Windows
 
-Click on "View code" to download
+Click on "View code" to view the source code
